@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/J29XNsR.png" width="400">
+    <img src="https://i.imgur.com/J29XNsR.png" width="500">
 </h1>
 
 ---
@@ -13,7 +13,7 @@
 
 ## 📋 Sobre
 
- **Parallax Effect on Mousemove ** é um efeito em que ao passar o mouse sobre o background cria-se um efeito de movimento. 
+ Parallax Effect on Mousemove é um efeito em que ao passar o mouse sobre o background cria-se um efeito de movimento. 
 
 ---
 
@@ -32,5 +32,5 @@ Esse arquivo está sob a licença MIT. ❤️
 ---
 
 <h3 align="center"> 
- Desenvolvido com 💜 por Júlio Latorre
+ Desenvolvido por Júlio Latorre
 </h3>
